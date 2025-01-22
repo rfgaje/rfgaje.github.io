@@ -1,0 +1,28 @@
+.box{
+    height: 100px;
+}
+
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: blueviolet;
+}
+.box4{
+    background-color: cyan;
+}
+.box5{
+    background-color: khaki;
+}
+.box6{
+    background-color: brown;
+}
+.box7{
+    background-color: green;
+}
+.box-50{
+    height: 50px;
+}
